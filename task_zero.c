@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 /**
 *mul - multiplies two intergers
 *@num1: first interger to be multiplied
