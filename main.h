@@ -10,6 +10,7 @@
 #include <stddef.h>
 #include <stdint.h>
 
+int mul(int num1, int num2)
 #define MAX_SIZE 1024 
 /* Environmental variables */
 extern char **environ;
