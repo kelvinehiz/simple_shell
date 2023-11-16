@@ -16,6 +16,7 @@ extern char **environ;
 
 /* Function declarations (prototypes) for main functions*/
 void _lup(void);
+int add(int num1, int num2)
 char *_readln(void);
 char **_splitln(char *line);
 int _exqte(char **args, char *input);
